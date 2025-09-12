@@ -34,4 +34,4 @@ Add custom prompts via user input.
 Experiment with different Stable Diffusion models.
 Integrate Gradio UI for interactive image generation.
 
-👩‍💻 Developed by akankshi-03
+👩‍💻 Developed by Akankshi-03
